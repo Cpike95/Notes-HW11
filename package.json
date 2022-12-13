@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Cpike95/Notes-HW11#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
